@@ -1,0 +1,67 @@
+/* Template css */
+
+
+
+.cta {
+  background: #333;
+  box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
+  height: 400px;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 30%;
+  margin-top: 1.1rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+
+.cta:hover > img {
+  top: -10%;
+  filter: brightness(70%);
+}
+
+.cta:hover > .text {
+  bottom: 0;
+}
+
+.image {
+  bottom: 0;
+  filter: brightness(100%);
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: 0.5s ease-in-out;
+  width: 100%;
+  margin-top: 100px;
+}
+
+.text {
+  bottom: -60%;
+  padding: 15px;
+  position: absolute;
+  transition: 0.5s ease-in-out;
+}
+
+.h2 {
+  color: white;
+  display: inline-block;
+  font-weight: 300;
+  margin-bottom: 5px;
+  position: relative;
+}
+
+p {
+  color: #fff;
+  font-weight: 300;
+}
+
+.white {
+  color: white;
+}
+
+.spooky {
+  color: rgb(215, 200, 200);
+}
