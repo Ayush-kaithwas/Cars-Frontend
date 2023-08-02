@@ -50,7 +50,7 @@ const Add = () => {
                 <div className="link">
                   <a
                     href="https://www.linkedin.com/in/ayush-kaithwas-aa62171ba/"
-                    target="blank"
+                    target="_blank"
                   >
                     <img
                       className="contactImage"
@@ -60,7 +60,7 @@ const Add = () => {
                   </a>
                 </div>
                 <div className="link">
-                  <a href="https://github.com/Ayush-kaithwas" target="blank">
+                  <a href="https://github.com/Ayush-kaithwas" target="_blank">
                     <img
                       className="contactImage"
                       src="https://i.postimg.cc/YCV2QBJg/github.png"
@@ -69,7 +69,7 @@ const Add = () => {
                   </a>
                 </div>
                 <div className="link">
-                  <a href="https://www.instagram.com/omni_fic/" target="blank">
+                  <a href="https://www.instagram.com/omni_fic/" target="_blank">
                     <img
                       className="contactImage"
                       src="https://i.postimg.cc/W4Znvrry/instagram.png"
@@ -78,7 +78,7 @@ const Add = () => {
                   </a>
                 </div>
                 <div className="link">
-                  <a href="https://0mnific.blogspot.com" target="blank">
+                  <a href="https://0mnific.blogspot.com" target="_blank">
                     <img
                       className="contactImage"
                       src="https://i.postimg.cc/NjLfyjPB/email.png"
