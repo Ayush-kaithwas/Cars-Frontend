@@ -19,13 +19,13 @@ function footer() {
                 <a
                   className="menu__link"
                   href="https://www.instagram.com/omni_fic/"
-                  target="blank"
+                  target="_blank"
                 >
                   Instagram
                 </a>
               </li>
               <li className="menu__item">
-                <a className="menu__link" href="https://0mnific.blogspot.com" target="blank">
+                <a className="menu__link" href="https://0mnific.blogspot.com" target="_blank">
                   Website
                 </a>
               </li>
@@ -33,7 +33,7 @@ function footer() {
                 <a
                   className="menu__link"
                   href="https://github.com/Ayush-kaithwas"
-                  target="blank"
+                  target="_blank"
                 >
                   Github
                 </a>
@@ -42,7 +42,7 @@ function footer() {
                 <a
                   className="menu__link"
                   href="https://www.linkedin.com/in/ayush-kaithwas-aa62171ba/"
-                  target="blank"
+                  target="_blank"
                 >
                   Linkedin
                 </a>
